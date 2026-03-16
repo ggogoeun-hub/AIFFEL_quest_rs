@@ -38,37 +38,4 @@ AIFFEL_quest_rs
         ├── .ipynb
         └── README.md
 
-AIFFEL_quest_rs
-├── MainQuest
-│   ├── Quest01
-│   │   ├── .ipynb
-│   │   └── README.md
-.       .
-.       .
-.       .
-│   └── Quest05
-│       ├── .ipynb
-│       └── README.md
-.
-.
-.
-└── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex09
-        ├── .ipynb
-        └── README.md
-.
-.
-└── GoingDeeper
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex09
-        ├── .ipynb
-        └── README.md
-
 ```
