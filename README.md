@@ -8,7 +8,7 @@ AIFFEL_quest_cr
 .       .
 .       .
 .       .
-│   └── Quest09
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 .
@@ -19,7 +19,20 @@ AIFFEL_quest_cr
     .
     .
     .
-    └── Ex08
+    └── Ex09
         ├── .ipynb
         └── README.md
+.
+.
+└── GoingDeeper
+    ├── Ex01
+    .
+    .
+    .
+    └── Ex09
+        ├── .ipynb
+        └── README.md
+
+
+
 # first-repository
